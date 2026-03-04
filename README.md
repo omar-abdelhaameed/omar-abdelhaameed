@@ -15,8 +15,6 @@ Modern Red Teaming techniques, FastAPI for robust backend development, and React
 **Ask me about:**
 Cybersecurity fundamentals, API development with FastAPI, React foundations, and secure web application design.
 
-**Fun fact:**
-I have a strong interest in reverse-engineering complex systems and understanding their inner workings.
 
 
 #  Tech Stack:
